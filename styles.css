@@ -24,3 +24,24 @@ body {
     background-color: #808080;
     border-radius: 7px 7px 0 0;
 }
+
+.card > ul {
+    list-style: none;
+    padding: 0;
+}
+.card > ul li {
+    width: 90%;
+    height: 25px;
+    margin: 10px auto;
+    background-color: rgba(255, 255, 255, 0.4);
+
+}
+
+.card button {
+    width: 50%;
+    height: 30px;
+    border: 0;
+    margin-left: 12px;
+    border-radius: 7px;
+    background-color: #d8d5d5;
+}
